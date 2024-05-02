@@ -1,6 +1,6 @@
 ### Repositório para projetos 
 
-- 🔭 I’m currently working on 
+- 🔭 I’m currently working on certifying. Taking some, for now, essential certs. (yes, cybersec is not a take sec+ and get a job, u actually need study that OSI model)
 - 🌱 I’m currently learning Networks, Java, Python, and other languages
 - 👯 I’m looking to collaborate on nothing currently
 - 🤔 I’m looking for help with nothing, mb
